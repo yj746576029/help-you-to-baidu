@@ -1,37 +1,20 @@
 # demo6
 
-#### 介绍
+## 介绍
 帮你百度一下
 
-#### 软件架构
-软件架构说明
+## 致伸手党
 
+为什么总有人会问：“xxx是什么意思啊？”，"怎么查xxx呀？"，"xxx是什么呀？"
 
-#### 安装教程
+献给所有喜欢问他人问题而不是自己去搜索的人，知识的获取是需要脚踏实地去探索的。
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+## 部署指导
 
-#### 使用说明
+项目是百度首页的高仿版，可以起到部分的迷惑作用。
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+项目代码较为精简且包含较为完整的注释，仅引入了jQuery和clipboard插件，阅读代码或修改应该不是很难。
 
-#### 参与贡献
+对于带有参数的链接会自动运行动画，当用户点击输入框或者搜索按钮时，动画会被打断并显示为初始状态。
 
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
-
-
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+你可以直接在自己的服务器中部署该项目中的源代码，以静态页面的方式运行即可。
